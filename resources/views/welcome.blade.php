@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    M Faizal Melano
+                    Ahmad Faizal Melano
                 </div>
 
                 <div class="links">
